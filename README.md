@@ -1,4 +1,4 @@
-## A modern HP-50G skin
+## A modern HP-50G skin (for MS Windows :( only )
 
 The existing HP-50G emulator skins are starting to look dated, so I made a new one. I made a modern flat interface, improved the keyboard shortcuts, increased the screen size, changed the screen's usual ugly green colour, and now it's my favourite mathematical tool. And it's free. And it's faster than WolframAlpha. 
 
